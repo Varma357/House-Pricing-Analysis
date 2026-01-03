@@ -3,8 +3,6 @@
 ## Project Overview
 This project analyzes Bengaluru real estate data and builds a machine learning model to predict house prices based on property features such as location, size (BHK), square footage, and number of bathrooms. The project demonstrates end-to-end data analytics, feature engineering, and predictive modeling using Python.
 
-Designed to be **ATS-friendly**, **recruiter-readable**, and **portfolio-ready**.
-
 ---
 
 ## Business Problem
